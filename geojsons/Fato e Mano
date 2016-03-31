@@ -1,0 +1,22 @@
+Enter file contents here
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Fato e Mano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.98213052749634,
+          -37.80620685908999
+        ]
+      }
+    }
+  ]
+}
